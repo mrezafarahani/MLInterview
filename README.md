@@ -5,6 +5,12 @@ This repo is a guide to prepare for ML/Data Science interviews
 ## Algorithms
 ### Classification
 ### Clustering
+#### Hard Clustering
+* K-means Clustering
+* Hierarchical Clustering
+#### Soft Clustering
+* C-means Clustering
+* GMM
 ### Regression
 ## Coding
 

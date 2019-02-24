@@ -15,15 +15,19 @@ To learn about this topic check [Linear Algebra by Cherney et. al.](https://www.
 ### Feature Engineering
 * typical groupby-agg,
 * counting,
-* [categorical encoding](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159] (Ordinal, OneHot, Binary, BaseN, Hashing),
+* [categorical encoding](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159) (Ordinal, OneHot, Binary, BaseN, Hashing),
 * count vector,
 * FM/FFM,
 * NN and
 * out of fold model
 ### Feature Selection
-* Filter Methods
-* Wrapper Methods
-The search process may be methodical such as a best-first search, it may stochastic such as a random hill-climbing algorithm, or it may use heuristics, like forward and backward passes to add and remove features.
+* All Subsets
+* Filter Methods -- Chi squared test, information gain and correlation coefficient scores
+* Wrapper Methods -- Stepwise Procedures (backward and forward)
+* Embedded Methods -- LASSO, Elastic Net and Ridge Regression
+Here is a good easy read from
+* Note that PCA is a dimensionality reduction method but not feature selection method
+[This datacamp link has whatever you need to know](https://www.datacamp.com/community/tutorials/feature-selection-python)
 ## Algorithms
 ### Classification
 ### Clustering

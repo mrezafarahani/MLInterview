@@ -10,12 +10,12 @@ This section is needed the most for positions related to NLP and Recommender eng
 * Kernel, Range, Nullity, Rank
 * Singular Value Decomposition
 * Matrix Factorization
-To learn about this topic check [Linear Algebra by Cherney et. al.][https://www.math.ucdavis.edu/~linear/linear-guest.pdf] or [khan academy website][https://www.khanacademy.org/math/linear-algebra].
+To learn about this topic check [Linear Algebra by Cherney et. al.](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) or [khan academy website](https://www.khanacademy.org/math/linear-algebra).
 ## Data Preparation
 ### Feature Engineering
 * typical groupby-agg,
 * counting,
-* [categorical encoding][https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159] (Ordinal, OneHot, Binary, BaseN, Hashing),
+* [categorical encoding](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159] (Ordinal, OneHot, Binary, BaseN, Hashing),
 * count vector,
 * FM/FFM,
 * NN and
@@ -36,6 +36,6 @@ The search process may be methodical such as a best-first search, it may stochas
 ### Regression
 
 ## Model Evaluation, Model Selection
-Most of this section is taken from [this paper] [https://arxiv.org/pdf/1811.12808.pdf]
+Most of this section is taken from [this paper](https://arxiv.org/pdf/1811.12808.pdf)
 
 ## Coding

@@ -1,5 +1,6 @@
 # ML/DS Interview Guide
-This repo is a guide to prepare for ML/Data Science interviews
+This repo is a checklist to prepare for ML/Data Science interviews, at each section I listed the topics you need to cover and a link to a source which oes over the topic comprehensively.
+
 
 ## Statistics
 * Central Limit Theorem
@@ -10,6 +11,7 @@ This section is needed the most for positions related to NLP and Recommender eng
 * Kernel, Range, Nullity, Rank
 * Singular Value Decomposition
 * Matrix Factorization
+
 To learn about this topic check [Linear Algebra by Cherney et. al.](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) or [khan academy website](https://www.khanacademy.org/math/linear-algebra).
 ## Data Preparation
 ### Feature Engineering
@@ -25,7 +27,9 @@ To learn about this topic check [Linear Algebra by Cherney et. al.](https://www.
 * Filter Methods -- Chi squared test, information gain and correlation coefficient scores
 * Wrapper Methods -- Stepwise Procedures (backward and forward)
 * Embedded Methods -- LASSO, Elastic Net and Ridge Regression
+
 Here is a good easy read from
+
 * Note that PCA is a dimensionality reduction method but not feature selection method
 [This datacamp link has whatever you need to know](https://www.datacamp.com/community/tutorials/feature-selection-python)
 ## Algorithms

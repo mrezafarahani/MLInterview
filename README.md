@@ -28,7 +28,7 @@ To learn about this topic check [Linear Algebra by Cherney et. al.](https://www.
 * Wrapper Methods -- Stepwise Procedures (backward and forward)
 * Embedded Methods -- LASSO, Elastic Net and Ridge Regression
 
-![alt text](https://openclipart.org/download/275692/1489798288.svg =250x) Here is a good easy read from [DataCamp](https://www.datacamp.com/community/tutorials/feature-selection-python)
+![alt text](https://openclipart.org/download/275692/1489798288.svg) Here is a good easy read from [DataCamp](https://www.datacamp.com/community/tutorials/feature-selection-python)
 
 
 * Note that PCA is a dimensionality reduction method but not feature selection method

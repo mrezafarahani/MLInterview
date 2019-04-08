@@ -1,3 +1,6 @@
+# ML/DS Interview Guide
+A Cheatsheet to prepare for ML/Data Science interviews, at each section I listed the topics you need to cover and a link to a source which oes over the topic comprehensively.
+
 <!-- vscode-markdown-toc -->
 * 1. [Statistics](#Statistics)
 * 2. [Linear Algebra (optional)](#LinearAlgebraoptional)
@@ -24,9 +27,6 @@
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-# ML/DS Interview Guide
-A Cheatsheet to prepare for ML/Data Science interviews, at each section I listed the topics you need to cover and a link to a source which oes over the topic comprehensively.
-
 
 ##  1. <a name='Statistics'></a>Statistics
 * Central Limit Theorem

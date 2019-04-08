@@ -1,13 +1,18 @@
 # ML/DS Interview Guide
 A Cheatsheet to prepare for ML/Data Science interviews, at each section I listed the topics you need to cover and a link to a source which oes over the topic comprehensively.
 
+# Table of Contents
+1. [Statistics](#Statistics)
+2. [Linear Algebra (optional)](#LinearAlgebra)
+3. [Data Preparation](#DataPreparation)
+
 
 ## Statistics
 * Central Limit Theorem
 * Bayes' theorem
 * Hopothesis testing
 * p-value
-## Linear Algebra (optional)
+## [Linear Algebra (optional)](#){name=LinearAlgebra}
 This section is needed the most for positions related to NLP, Recommender Engines and Advanced Machine Learning.
 * Eigenvalues and Eigenvectors
 * Kernel, Range, Nullity, Rank
@@ -15,7 +20,7 @@ This section is needed the most for positions related to NLP, Recommender Engine
 * Matrix Factorization
 
 To learn about this topic check [Linear Algebra by Cherney et. al.](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) or [khan academy website](https://www.khanacademy.org/math/linear-algebra).
-## Data Preparation
+## [Data Preparation](#){name=DataPreparation}
 ### Feature Engineering
 * typical groupby-agg,
 * counting,

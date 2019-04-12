@@ -1,0 +1,44 @@
+Q1. a.
+
+select *
+from
+(
+select employees.employee_id, department_id, RANK() over (partition by department_id order by sales.total_orders_sum desc) as salesrank
+from employees
+left join
+	(select sales_rep_id, sum(order_total) as total_orders_sum
+	from orders
+	where order_id between '2016-01-01' and '2016-03-31'
+	group by sales_rep_id
+	) sales
+	on employees.employee_id = sales.sales_rep_id
+) t1
+where salesrank < 4
+order by department_id, total_orders_sum;
+
+Q2. a.
+
+create table yearly_sales as(
+	select sales_rep_id, tenur_year, sum(order_total) as annual_sale
+	from
+		(
+			select o.sales_rep_id, order_total, DATEDIFF ( YEAR , e.hire_date , o.oreder_date ) as tenur_year
+			from orders o
+			join employees e
+			on o.sales_rep_id = e.employee_id
+		)
+	group by sales_rep_id, tenur_year)
+)
+
+select
+select sales_rep_id, tenur_year, s1,
+    case WHEN t2.YEAR IS NOT NULL THEN
+        FORMAT(
+            CONVERT(DECIMAL(10, 2), (s1 - s2)) /
+            CONVERT(DECIMAL(10, 2), s2), 'p')
+    else NULL end as "YEARLY GROWTH"
+    from (
+		select y1.sales_rep_id, y1.tenur_year, y1.annual_sale as s1, y2.annual_sale as s2 from yearly_sales y1
+			left join yearly_sales y2 on
+			y1.sales_rep_id = y2.sales_rep_id and y1.tenur_year -1 = y2.tenur_year
+		)

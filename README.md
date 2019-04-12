@@ -1,5 +1,12 @@
 # ML/DS Interview Guide
-A Cheatsheet to prepare for ML/Data Science interviews, at each section I listed the topics you need to cover and a link to a source which oes over the topic comprehensively.
+A Cheatsheet to prepare for ML/Data Science interviews, at each section, I listed the topics you need to cover and a link to a source which goes over the topic comprehensively.
+
+When I started preparing this document It was just a checklist for myself but after my mentorship experience, I noticed the structure of such a document helps people to organize their minds. 
+
+During the past 4 years I had the chance to interview many data scientists and get interviewed by both established companies and startups. I am planning to write more about those experiences.
+
+I used [hired](https://hired.com/x/618y6) during last 3 months to get a couple of interviews, the job I landed at the end was not linked to [hired](https://hired.com/x/618y6), however, those interviews helped me to refine my knowledge and subsequently this document[^1].
+[^1]: The hired link is a referral link which helps me to continue writing in this topic.
 
 <!-- vscode-markdown-toc -->
 1. [Statistics](#Statistics)

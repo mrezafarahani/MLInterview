@@ -41,9 +41,9 @@ I used [hired](https://hired.com/x/618y6) during last 3 months to get a couple o
 * Hopothesis testing
 * p-value
 
-:tv: Head over to [Khan Academy](https://www.khanacademy.org/math/ap-statistics/tests-significance-ap) for the review.
+:tv: Head over to [Khan Academy](https://www.khanacademy.org/math/ap-statistics/tests-significance-ap) for the review lesson.
 
-:clock1030: Estimated Review Time 4 hours
+:clock1030: Estimated Review Time 3 hours
 
 ##  2. <a name='LinearAlgebraoptional'></a>Linear Algebra (optional)
 This section is needed the most for positions related to NLP, Recommender Engines and Advanced Machine Learning.
@@ -52,7 +52,12 @@ This section is needed the most for positions related to NLP, Recommender Engine
 * Singular Value Decomposition
 * Matrix Factorization
 
-To learn about this topic check [Linear Algebra by Cherney et. al.](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) or [khan academy website](https://www.khanacademy.org/math/linear-algebra).
+:tv: To learn about this topic check [khan academy website](https://www.khanacademy.org/math/linear-algebra).
+
+:clock1030: Estimated Review Time 3 hours
+
+:eyeglasses: Extra Resources: [Linear Algebra by Cherney et. al.](https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
+
 ##  3. <a name='DataPreparation'></a>Data Preparation
 ###  3.1. <a name='FeatureEngineering'></a>Feature Engineering
 * typical groupby-agg,
@@ -68,10 +73,10 @@ To learn about this topic check [Linear Algebra by Cherney et. al.](https://www.
 * Wrapper Methods -- Stepwise Procedures (backward and forward)
 * Embedded Methods -- LASSO, Elastic Net and Ridge Regression
 
-Here is a good easy read from [DataCamp](https://www.datacamp.com/community/tutorials/feature-selection-python)
+:computer: Here is a good easy read from [DataCamp](https://www.datacamp.com/community/tutorials/feature-selection-python)
 
 
-* Note that PCA is a dimensionality reduction method and not a feature selection method.
+:grey_exclamation: Note that PCA is a dimensionality reduction method and not a feature selection method.
 [This datacamp link has whatever you need to know](https://www.datacamp.com/community/tutorials/feature-selection-python)
 ##  4. <a name='Algorithms'></a>Algorithms
 ###  4.1. <a name='Classification'></a>Classification
@@ -79,6 +84,11 @@ Here is a good easy read from [DataCamp](https://www.datacamp.com/community/tuto
 * K-Nearest Neighbor
 * Decision Tree
 * Ensemble Methods -- Random Forest, Gradient Boosting Machines, XGBoost
+
+:tv: Take a look at [this video](https://www.coursera.org/lecture/machine-learning/classification-wlPeP) by Andrew Ng for Logistic Regression.
+
+:book: For Decision Tree topic take a look at [this medium post](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1).
+
 
 ###  4.2. <a name='Clustering'></a>Clustering
 ####  4.2.1. <a name='HardClustering'></a>Hard Clustering

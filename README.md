@@ -5,8 +5,8 @@ When I started preparing this document It was just a checklist for myself but af
 
 During the past 4 years I had the chance to interview many data scientists and get interviewed by both established companies and startups. I am planning to write more about those experiences.
 
-I used [hired](https://hired.com/x/618y6) during last 3 months to get a couple of interviews, the job I landed at the end was not linked to [hired](https://hired.com/x/618y6), however, those interviews helped me to refine my knowledge and subsequently this document[^1].
-[^1]: The hired link is a referral link which helps me to continue writing in this topic.
+I used [hired](https://hired.com/x/618y6) during last 3 months to get a couple of interviews, the job I landed at the end was not linked to [hired](https://hired.com/x/618y6), however, those interviews helped me to refine my knowledge and subsequently this document<sup>[1](#myfootnote1)</sup>.
+
 
 <!-- vscode-markdown-toc -->
 1. [Statistics](#Statistics)
@@ -111,4 +111,7 @@ To learn more just take this [7-Hour course from codeacademy](https://www.codeca
 * Advance Machine Learning (TensorFlow)
 
 ###  6.3. <a name='DataStructureandAlgorithms'></a>Data Structure and Algorithms
+
+
+<a name="myfootnote1">1</a>: The hired link is a referral link which helps me to continue writing in this topic.
 

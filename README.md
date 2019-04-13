@@ -40,6 +40,10 @@ I used [hired](https://hired.com/x/618y6) during last 3 months to get a couple o
 * Bayes' theorem
 * Hopothesis testing
 * p-value
+
+:tv: Head over to [Khan Academy](https://www.khanacademy.org/math/ap-statistics/tests-significance-ap) for the review.
+:clock1030: Estimated Review Time 4 hours
+
 ##  2. <a name='LinearAlgebraoptional'></a>Linear Algebra (optional)
 This section is needed the most for positions related to NLP, Recommender Engines and Advanced Machine Learning.
 * Eigenvalues and Eigenvectors

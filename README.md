@@ -168,6 +168,6 @@ SQL is the main language used across enterprises while dealing with data and dat
 :clock1030: Estimated Review Time 5 hours (Assuming you may skip some parts)
 
 
-
+------
 <a name="myfootnote1">1</a>: The hired link is a referral link which helps me to continue writing in this topic.
 

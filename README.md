@@ -1,11 +1,11 @@
-# ML/DS Interview Guide
-A Cheatsheet to prepare for ML/Data Science interviews, at each section, I listed the topics you need to cover and a link to a source which goes over the topic comprehensively.
+# Data Science Interview Guide
+A Cheatsheet to prepare forData Science interviews, at each section, I listed the topics you need to cover and a link to a source which goes over the topic comprehensively.
 
 When I started preparing this document It was just a checklist for myself but after my mentorship experience, I noticed the structure of such a document helps people to organize their minds. 
 
 During the past 4 years, I had the chance to interview many data scientists and get interviewed by both established companies and startups. I am planning to write more about those experiences.
 
-I used [hired](https://hired.com/x/618y6) during last 3 months to get a couple of interviews, the job I landed at the end was not linked to [hired](https://hired.com/x/618y6), however, those interviews helped me to refine my knowledge and subsequently this document<sup>[1](#myfootnote1)</sup>.
+I used :rocket: [hired](https://hired.com/x/618y6) during last 3 months to get a couple of interviews, the job I landed at the end was not linked to :rocket: [hired](https://hired.com/x/618y6), however, those interviews helped me to refine my knowledge and subsequently this document<sup>[1](#myfootnote1)</sup>.
 
 
 <!-- vscode-markdown-toc -->

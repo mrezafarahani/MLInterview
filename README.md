@@ -1,5 +1,5 @@
 # Data Science Interview Guide
-A Cheatsheet to prepare forData Science interviews, at each section, I listed the topics you need to cover and a link to a source which goes over the topic comprehensively.
+A Cheatsheet to prepare for Data Science interviews, at each section, I listed the topics you need to cover and a link to a source which goes over the topic comprehensively.
 
 When I started preparing this document It was just a checklist for myself but after my mentorship experience, I noticed the structure of such a document helps people to organize their minds. 
 

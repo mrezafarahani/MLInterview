@@ -21,8 +21,8 @@ I used [hired](https://hired.com/x/618y6) during last 3 months to get a couple o
 		* 4.2.2. [Soft Clustering](#SoftClustering)
 	* 4.3. [Regression](#Regression)
 5. [Model Evaluation, Model Selection](#ModelEvaluationModelSelection)
-	* 5.1. [Two-Class Classification](#Two-ClassClassification)
-	* 5.2. [Multiclass Classification](#MulticlassClassification)
+	* 5.1. [Model Errors](#Model-Errors)
+	* 5.2. [Classification](#Classification)
 	* 5.3. [Regression](#Regression-1)
 6. [Coding](#Coding)
 	* 6.1. [SQL](#SQL)
@@ -67,8 +67,6 @@ This section is needed the most for positions related to NLP, Recommender Engine
 
 :book: I am looking for something more comprehensive for this section but [this article](https://towardsdatascience.com/feature-engineering-what-powers-machine-learning-93ab191bcc2d) is still a good read.
 
-:clock1030: Estimated Review Time 1.5 hours
-
 
 ###  3.2. <a name='FeatureSelection'></a>Feature Selection
 * All Subsets
@@ -78,7 +76,7 @@ This section is needed the most for positions related to NLP, Recommender Engine
 
 :computer: Here is a good easy read from [DataCamp](https://www.datacamp.com/community/tutorials/feature-selection-python).
 
-:clock1030: Estimated Review Time 1.5 hours
+:clock1030: Estimated Review Time 3 hours
 
 :grey_exclamation: Note that PCA is a feature engineering and/or dimentionality reduction method and not a feature selection method.
 [This datacamp article](https://www.datacamp.com/community/tutorials/feature-selection-python) has whatever you need to know.
@@ -93,32 +91,49 @@ This section is needed the most for positions related to NLP, Recommender Engine
 
 :book: For Decision Tree topic take a look at [this medium post](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1).
 
-:clock1030: Estimated Review Time 3 hours
-
-
 ###  4.2. <a name='Clustering'></a>Clustering
 ####  4.2.1. <a name='HardClustering'></a>Hard Clustering
-* K-means Clustering
-* Hierarchical Clustering
+* [K-means Clustering](https://www.datascience.com/blog/k-means-clustering)
+* [Hierarchical Clustering](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec)
 
 ####  4.2.2. <a name='SoftClustering'></a>Soft Clustering
-* C-means Clustering
-* GMM
-
-:clock1030: Estimated Review Time 1 hour
+* [Fuzzy clustering](https://en.wikipedia.org/wiki/Fuzzy_clustering)
+* [Gaussian mixture models](https://scikit-learn.org/stable/modules/mixture.html)
 
 ###  4.3. <a name='Regression'></a>Regression
 * Linear Regression 
 * Non-linear Regression
 
-:clock1030: Estimated Review Time 1.5 hour
+:tv: This a great overview of [regression in Khan Academy](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data#more-on-regression). 
+
+:clock1030: Estimated Review Time 5 hours
 
 ##  5. <a name='ModelEvaluationModelSelection'></a>Model Evaluation, Model Selection
 
-###  5.1. <a name='Two-ClassClassification'></a>Two-Class Classification
-###  5.2. <a name='MulticlassClassification'></a>Multiclass Classification
+###  5.1. <a name='Model-Errors'></a>Model Errors
+* Bias and Variance
+* Relation of Overfitting to bias and vairance
+* Cross Validation
+
+:book: Most of this section is taken from [this paper](https://arxiv.org/pdf/1811.12808.pdf)
+
+###  5.2. <a name='Classification'></a>Classification
+* Accuracy
+* Log-loss
+* Percision-Recall (Confusion Metrics)
+* F1-Score
+* ROC-AUC
+
+:book: [This article](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428) goes over most these methods.
+
 ###  5.3. <a name='Regression-1'></a>Regression
-Most of this section is taken from [this paper](https://arxiv.org/pdf/1811.12808.pdf)
+* Mean Squar Error (MSE) & Mean Squar Error
+* R-Square
+* Mean Absolute Percentage Error (MAPE)
+
+:tv: For the regression model evaluation take a look at the [Khan Academy course](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data#more-on-regression) on regression.
+
+:clock1030: Estimated Review Time 3 hours
 
 ##  6. <a name='Coding'></a>Coding
 ###  6.1. <a name='SQL'></a>SQL
@@ -131,6 +146,8 @@ SQL is the main language used across enterprises while dealing with data and dat
 
 :computer: To learn more just take this [7-Hour course from codeacademy](https://www.codecademy.com/learn/learn-sql).
 
+:clock1030: Estimated Review Time 3 hour (Assuming you may skip some parts)
+
 ###  6.2. <a name='PythonBasics'></a>Python Basics
 * Data Manipulation (Numpy and Pandas)
 * Machine Learning (Sci-kit Learn)
@@ -138,6 +155,8 @@ SQL is the main language used across enterprises while dealing with data and dat
 * Advance Machine Learning (TensorFlow)
 
 :computer: To learn more just take this [7-Hour course from DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science). 
+
+:clock1030: Estimated Review Time 3 hour (Assuming you may skip some parts)
 
 ###  6.3. <a name='DataStructureandAlgorithms'></a>Data Structure and Algorithms
 

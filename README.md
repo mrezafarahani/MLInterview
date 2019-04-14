@@ -67,7 +67,7 @@ This section is needed the most for positions related to NLP, Recommender Engine
 
 :book: I am looking for something more comprehensive for this section but [this article](https://towardsdatascience.com/feature-engineering-what-powers-machine-learning-93ab191bcc2d) is still a good read.
 
-:clock1030: Estimated Review Time 2 hours
+:clock1030: Estimated Review Time 1.5 hours
 
 
 ###  3.2. <a name='FeatureSelection'></a>Feature Selection
@@ -78,7 +78,7 @@ This section is needed the most for positions related to NLP, Recommender Engine
 
 :computer: Here is a good easy read from [DataCamp](https://www.datacamp.com/community/tutorials/feature-selection-python).
 
-:clock1030: Estimated Review Time 2 hours
+:clock1030: Estimated Review Time 1.5 hours
 
 :grey_exclamation: Note that PCA is a feature engineering and/or dimentionality reduction method and not a feature selection method.
 [This datacamp article](https://www.datacamp.com/community/tutorials/feature-selection-python) has whatever you need to know.
@@ -93,18 +93,25 @@ This section is needed the most for positions related to NLP, Recommender Engine
 
 :book: For Decision Tree topic take a look at [this medium post](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1).
 
+:clock1030: Estimated Review Time 3 hours
+
 
 ###  4.2. <a name='Clustering'></a>Clustering
 ####  4.2.1. <a name='HardClustering'></a>Hard Clustering
 * K-means Clustering
 * Hierarchical Clustering
+
 ####  4.2.2. <a name='SoftClustering'></a>Soft Clustering
 * C-means Clustering
 * GMM
 
+:clock1030: Estimated Review Time 1 hour
+
 ###  4.3. <a name='Regression'></a>Regression
 * Linear Regression 
 * Non-linear Regression
+
+:clock1030: Estimated Review Time 1.5 hour
 
 ##  5. <a name='ModelEvaluationModelSelection'></a>Model Evaluation, Model Selection
 
@@ -122,12 +129,15 @@ SQL is the main language used in enterprise while dealing with data and databses
 * Joins (Multitables)
 * Aggregate functions
 
-To learn more just take this [7-Hour course from codeacademy](https://www.codecademy.com/learn/learn-sql).
+:computer: To learn more just take this [7-Hour course from codeacademy](https://www.codecademy.com/learn/learn-sql).
+
 ###  6.2. <a name='PythonBasics'></a>Python Basics
 * Data Manipulation (Numpy and Pandas)
 * Machine Learning (Sci-kit Learn)
 * Visualization (MatplotLib, Seaborn)
 * Advance Machine Learning (TensorFlow)
+
+:computer: To learn more just take this [7-Hour course from DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science). 
 
 ###  6.3. <a name='DataStructureandAlgorithms'></a>Data Structure and Algorithms
 

@@ -60,24 +60,28 @@ This section is needed the most for positions related to NLP, Recommender Engine
 
 ##  3. <a name='DataPreparation'></a>Data Preparation
 ###  3.1. <a name='FeatureEngineering'></a>Feature Engineering
-* typical groupby-agg,
-* counting,
-* [categorical encoding](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159) (Ordinal, OneHot, Binary, BaseN, Hashing),
-* count vector,
-* FM/FFM,
-* NN and
-* out of fold model
+* [Grouping and Aggregation](https://towardsdatascience.com/aggregation-and-grouping-66396f26dd95) (Counting, Mean, Median, STD, Max, Min, ...),
+* [Categorical Encoding](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159) (Ordinal, OneHot, Binary, BaseN, Hashing),
+* Feature Transformation,
+* Deep Learning methods, e.g., Autoencoding (optional)
+
+:book: I am looking for something more comprehensive for this section but [this article](https://towardsdatascience.com/feature-engineering-what-powers-machine-learning-93ab191bcc2d) is still a good read.
+
+:clock1030: Estimated Review Time 2 hours
+
+
 ###  3.2. <a name='FeatureSelection'></a>Feature Selection
 * All Subsets
 * Filter Methods -- Chi squared test, information gain and correlation coefficient scores
 * Wrapper Methods -- Stepwise Procedures (backward and forward)
 * Embedded Methods -- LASSO, Elastic Net and Ridge Regression
 
-:computer: Here is a good easy read from [DataCamp](https://www.datacamp.com/community/tutorials/feature-selection-python)
+:computer: Here is a good easy read from [DataCamp](https://www.datacamp.com/community/tutorials/feature-selection-python).
 
+:clock1030: Estimated Review Time 2 hours
 
-:grey_exclamation: Note that PCA is a dimensionality reduction method and not a feature selection method.
-[This datacamp link has whatever you need to know](https://www.datacamp.com/community/tutorials/feature-selection-python)
+:grey_exclamation: Note that PCA is a feature engineering and/or dimentionality reduction method and not a feature selection method.
+[This datacamp article](https://www.datacamp.com/community/tutorials/feature-selection-python) has whatever you need to know.
 ##  4. <a name='Algorithms'></a>Algorithms
 ###  4.1. <a name='Classification'></a>Classification
 * Logistic Regression

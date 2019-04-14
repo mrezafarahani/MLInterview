@@ -146,7 +146,6 @@ SQL is the main language used across enterprises while dealing with data and dat
 
 :computer: To learn more just take this [7-Hour course from codeacademy](https://www.codecademy.com/learn/learn-sql).
 
-:clock1030: Estimated Review Time 3 hour (Assuming you may skip some parts)
 
 ###  6.2. <a name='PythonBasics'></a>Python Basics
 * Data Manipulation (Numpy and Pandas)
@@ -156,9 +155,18 @@ SQL is the main language used across enterprises while dealing with data and dat
 
 :computer: To learn more just take this [7-Hour course from DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science). 
 
-:clock1030: Estimated Review Time 3 hour (Assuming you may skip some parts)
 
 ###  6.3. <a name='DataStructureandAlgorithms'></a>Data Structure and Algorithms
+* Arrays
+* Linked Lists
+* Dictionary (Hash Function)
+* Trees
+* Algorithm Complexity (Big-O notion)
+
+:computer: head over to [DataCamp](https://www.datacamp.com/community/tutorials/data-structures-python) to learn more about data structures in python.
+
+:clock1030: Estimated Review Time 5 hours (Assuming you may skip some parts)
+
 
 
 <a name="myfootnote1">1</a>: The hired link is a referral link which helps me to continue writing in this topic.

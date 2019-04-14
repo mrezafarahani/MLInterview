@@ -3,7 +3,7 @@ A Cheatsheet to prepare for ML/Data Science interviews, at each section, I liste
 
 When I started preparing this document It was just a checklist for myself but after my mentorship experience, I noticed the structure of such a document helps people to organize their minds. 
 
-During the past 4 years I had the chance to interview many data scientists and get interviewed by both established companies and startups. I am planning to write more about those experiences.
+During the past 4 years, I had the chance to interview many data scientists and get interviewed by both established companies and startups. I am planning to write more about those experiences.
 
 I used [hired](https://hired.com/x/618y6) during last 3 months to get a couple of interviews, the job I landed at the end was not linked to [hired](https://hired.com/x/618y6), however, those interviews helped me to refine my knowledge and subsequently this document<sup>[1](#myfootnote1)</sup>.
 
@@ -122,7 +122,7 @@ Most of this section is taken from [this paper](https://arxiv.org/pdf/1811.12808
 
 ##  6. <a name='Coding'></a>Coding
 ###  6.1. <a name='SQL'></a>SQL
-SQL is the main language used in enterprise while dealing with data and databses. You need to know basics of SQL coding. There are a lot of SQL flavours, however, you are not required to know them all. These are the fields I recommend to learn:
+SQL is the main language used across enterprises while dealing with data and databases. You need to know the basics of SQL coding. There are a lot of SQL flavours, however, you are not required to know them all. These are the fields I recommend to learn:
 
 * Data Manipulation
 * Queries 
